@@ -1,0 +1,7295 @@
+fileFormatVersion: 2
+guid: 9e9f461373f719e4aa963b053113226e
+timeCreated: 1674500860
+licenseType: Free
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: lightningmakeup
+  - first:
+      213: 21300002
+    second: goldrose
+  - first:
+      213: 21300004
+    second: blueshutters
+  - first:
+      213: 21300006
+    second: CARDBOARD HELMET SPRITE
+  - first:
+      213: 21300008
+    second: ScarecrowHatSprite
+  - first:
+      213: 21300010
+    second: mountainpin
+  - first:
+      213: 21300012
+    second: StumpHeadSprite
+  - first:
+      213: 21300014
+    second: regularforkandknife
+  - first:
+      213: 21300016
+    second: CloudHatSprite
+  - first:
+      213: 21300018
+    second: acousticguitar
+  - first:
+      213: 21300020
+    second: fourleafclover
+  - first:
+      213: 21300022
+    second: pinkrose
+  - first:
+      213: 21300024
+    second: sunburn
+  - first:
+      213: 21300026
+    second: coconuthat
+  - first:
+      213: 21300028
+    second: PaintballSnowVisorSprite
+  - first:
+      213: 21300030
+    second: nosesnowflake
+  - first:
+      213: 21300032
+    second: catearssprite
+  - first:
+      213: 21300034
+    second: werewolfset
+  - first:
+      213: 21300036
+    second: redlonghairwig
+  - first:
+      213: 21300038
+    second: SuperHeroHeadbandSprite
+  - first:
+      213: 21300040
+    second: surgicalmask
+  - first:
+      213: 21300042
+    second: gt1
+  - first:
+      213: 21300044
+    second: basicearrings
+  - first:
+      213: 21300046
+    second: earmuffsgreen
+  - first:
+      213: 21300048
+    second: sunscreen
+  - first:
+      213: 21300050
+    second: basicbeanie
+  - first:
+      213: 21300052
+    second: purplelilyhat
+  - first:
+      213: 21300054
+    second: foreheadegg
+  - first:
+      213: 21300056
+    second: PaintballForestVestSprite
+  - first:
+      213: 21300058
+    second: PaintballSnowVestSprite
+  - first:
+      213: 21300060
+    second: boxofchocolateshat
+  - first:
+      213: 21300062
+    second: headphones1
+  - first:
+      213: 21300064
+    second: RobotBodySprite
+  - first:
+      213: 21300066
+    second: drumset
+  - first:
+      213: 21300068
+    second: ExplorerHatSprite
+  - first:
+      213: 21300070
+    second: YorickSprite
+  - first:
+      213: 21300072
+    second: plunger
+  - first:
+      213: 21300074
+    second: blackrose
+  - first:
+      213: 21300076
+    second: sparkler
+  - first:
+      213: 21300078
+    second: sunnysunhat
+  - first:
+      213: 21300080
+    second: TruckerHat_VariantCSprite
+  - first:
+      213: 21300082
+    second: flowercrown
+  - first:
+      213: 21300084
+    second: Tshirt_VariantDSprite
+  - first:
+      213: 21300086
+    second: elfhat
+  - first:
+      213: 21300088
+    second: canyonpin
+  - first:
+      213: 21300090
+    second: pompomhatblue
+  - first:
+      213: 21300092
+    second: goggles
+  - first:
+      213: 21300094
+    second: TruckerHat_VariantASprite
+  - first:
+      213: 21300096
+    second: pineapplehat
+  - first:
+      213: 21300098
+    second: TuxHairSprite
+  - first:
+      213: 21300100
+    second: starprincesstiara
+  - first:
+      213: 21300102
+    second: mummywrap
+  - first:
+      213: 21300104
+    second: mapleleaf
+  - first:
+      213: 21300106
+    second: earmuffswhite
+  - first:
+      213: 21300108
+    second: paperbaghat
+  - first:
+      213: 21300110
+    second: SlingshotHornsSprite
+  - first:
+      213: 21300112
+    second: UnicornTutuSprite
+  - first:
+      213: 21300114
+    second: werewolfears
+  - first:
+      213: 21300116
+    second: santabeard
+  - first:
+      213: 21300118
+    second: SheriffHatSprite
+  - first:
+      213: 21300120
+    second: TshirtSprite
+  - first:
+      213: 21300122
+    second: thumbhats
+  - first:
+      213: 21300124
+    second: cherryblossombranch
+  - first:
+      213: 21300126
+    second: RobotHeadSprite
+  - first:
+      213: 21300128
+    second: bigeyebrows
+  - first:
+      213: 21300130
+    second: blackumbrella
+  - first:
+      213: 21300132
+    second: pompomhatpattern
+  - first:
+      213: 21300134
+    second: stick
+  - first:
+      213: 21300136
+    second: BulgingGooglyEyesSprite
+  - first:
+      213: 21300138
+    second: ClownVestSprite
+  - first:
+      213: 21300140
+    second: neckscarf
+  - first:
+      213: 21300142
+    second: earmuffsblack
+  - first:
+      213: 21300144
+    second: SlinkyEyesSprite
+  - first:
+      213: 21300146
+    second: leprechaunhat
+  - first:
+      213: 21300148
+    second: SheriffVestSprite
+  - first:
+      213: 21300150
+    second: TurkeyLeg22Sprite
+  - first:
+      213: 21300152
+    second: CARDBOARD ARMOR SPRITE
+  - first:
+      213: 21300154
+    second: earmuffspink
+  - first:
+      213: 21300156
+    second: tripleearrings
+  - first:
+      213: 21300158
+    second: chromecowboyhat
+  - first:
+      213: 21300160
+    second: RobotOutfitSprite
+  - first:
+      213: 21300162
+    second: skullmask
+  - first:
+      213: 21300164
+    second: SPIKED HELMET SPRITE
+  - first:
+      213: 21300166
+    second: pumpkinhat
+  - first:
+      213: 21300168
+    second: turkeyleg
+  - first:
+      213: 21300170
+    second: CARDBOARD ARMOR SET SPRITE
+  - first:
+      213: 21300172
+    second: cowboyhat
+  - first:
+      213: 21300174
+    second: turkeyfingerpuppet
+  - first:
+      213: 21300176
+    second: HIGH TECH SLINGSHOT SPRITE
+  - first:
+      213: 21300178
+    second: TruckerHatSprite
+  - first:
+      213: 21300180
+    second: facescarf
+  - first:
+      213: 21300182
+    second: vampirewig
+  - first:
+      213: 21300184
+    second: CandyBarFunSizeSprite
+  - first:
+      213: 21300186
+    second: bananahat
+  - first:
+      213: 21300188
+    second: piratebandana
+  - first:
+      213: 21300190
+    second: SPIKED ARMOR SET SPRITE
+  - first:
+      213: 21300192
+    second: PaintballForestVisorSprite
+  - first:
+      213: 21300194
+    second: paintedegghat
+  - first:
+      213: 21300196
+    second: yellowrainhat
+  - first:
+      213: 21300198
+    second: PAINTBALL GORILLA ARMOR SPRITE
+  - first:
+      213: 21300200
+    second: witchhat
+  - first:
+      213: 21300202
+    second: biteonion
+  - first:
+      213: 21300204
+    second: starprincessglasses
+  - first:
+      213: 21300206
+    second: witchnose
+  - first:
+      213: 21300208
+    second: electricguitar
+  - first:
+      213: 21300210
+    second: CranberryCanSprite
+  - first:
+      213: 21300212
+    second: FlagTriangle_VariantASprite
+  - first:
+      213: 21300214
+    second: ROCKIN MOHAWK SPRITE
+  - first:
+      213: 21300216
+    second: StickableTargetSprite
+  - first:
+      213: 21300218
+    second: CloudSlingshotSprite
+  - first:
+      213: 21300220
+    second: aviators
+  - first:
+      213: 21300222
+    second: CornOnCobSprite
+  - first:
+      213: 21300224
+    second: cloche
+  - first:
+      213: 21300226
+    second: ExplorerJacketSprite
+  - first:
+      213: 21300228
+    second: MouthWheatSprite
+  - first:
+      213: 21300230
+    second: PumpkinHeadHappySprite
+  - first:
+      213: 21300232
+    second: righteyepatch
+  - first:
+      213: 21300234
+    second: boxyglasses
+  - first:
+      213: 21300236
+    second: redshutters
+  - first:
+      213: 21300238
+    second: roundsunglasses
+  - first:
+      213: 21300240
+    second: GorillaBalloonSprite
+  - first:
+      213: 21300242
+    second: doubleeyepatch
+  - first:
+      213: 21300244
+    second: snowmanhat
+  - first:
+      213: 21300246
+    second: blank
+  - first:
+      213: 21300248
+    second: yellowhandboots
+  - first:
+      213: 21300250
+    second: cloudhandboots
+  - first:
+      213: 21300252
+    second: BalloonGhostSprite
+  - first:
+      213: 21300254
+    second: goldenfourleafclover
+  - first:
+      213: 21300256
+    second: citypin
+  - first:
+      213: 21300258
+    second: pocketgorillabunblue
+  - first:
+      213: 21300260
+    second: treebadge
+  - first:
+      213: 21300262
+    second: regularwrench
+  - first:
+      213: 21300264
+    second: goldwrench
+  - first:
+      213: 21300266
+    second: SuperHeroBodySprite
+  - first:
+      213: 21300268
+    second: eyebrowstud
+  - first:
+      213: 21300270
+    second: chefshat
+  - first:
+      213: 21300272
+    second: sweatbandsprite
+  - first:
+      213: 21300274
+    second: seagull
+  - first:
+      213: 21300276
+    second: spilledicecream
+  - first:
+      213: 21300278
+    second: starprincesswand
+  - first:
+      213: 21300280
+    second: ExplorerOutfitSprite
+  - first:
+      213: 21300282
+    second: emperornosebutterfly
+  - first:
+      213: 21300284
+    second: fez
+  - first:
+      213: 21300286
+    second: PinwheelSprite
+  - first:
+      213: 21300288
+    second: 2022glasses
+  - first:
+      213: 21300290
+    second: ushankasprite
+  - first:
+      213: 21300292
+    second: popsicle
+  - first:
+      213: 21300294
+    second: BigHeadSprite
+  - first:
+      213: 21300296
+    second: cookiejar
+  - first:
+      213: 21300298
+    second: whitefedora
+  - first:
+      213: 21300300
+    second: clownwig
+  - first:
+      213: 21300302
+    second: SPIKED ARMOR SPRITE
+  - first:
+      213: 21300304
+    second: PumpkinHeadScarySprite
+  - first:
+      213: 21300306
+    second: clownset
+  - first:
+      213: 21300308
+    second: Tshirt_VariantASprite
+  - first:
+      213: 21300310
+    second: PieSliceSprite
+  - first:
+      213: 21300312
+    second: CHOCO DONUT BALLOON SPRITE
+  - first:
+      213: 21300314
+    second: ThrowableSquishyEyeballSprite
+  - first:
+      213: 21300316
+    second: FryingPanSprite
+  - first:
+      213: 21300318
+    second: ToyFrogSprite
+  - first:
+      213: 21300320
+    second: TuxSprite
+  - first:
+      213: 21300322
+    second: LadelSprite
+  - first:
+      213: 21300324
+    second: whitebunnyears
+  - first:
+      213: 21300326
+    second: goldenumbrella
+  - first:
+      213: 21300328
+    second: foreheadmirrorsprite
+  - first:
+      213: 21300330
+    second: tophat
+  - first:
+      213: 21300332
+    second: CandyBarGiantSizeSprite
+  - first:
+      213: 21300334
+    second: STAR BALLOON SPRITE
+  - first:
+      213: 21300336
+    second: yellowrainshawl
+  - first:
+      213: 21300338
+    second: bubbler
+  - first:
+      213: 21300340
+    second: SheriffOutfitSprite
+  - first:
+      213: 21300342
+    second: sunhat
+  - first:
+      213: 21300344
+    second: saucepanhat
+  - first:
+      213: 21300346
+    second: DONUT BALLOON SPRITE
+  - first:
+      213: 21300348
+    second: UnicornTutuOutfitSprite
+  - first:
+      213: 21300350
+    second: FingerOliveSprite
+  - first:
+      213: 21300352
+    second: santaset
+  - first:
+      213: 21300354
+    second: HEART BALLOON SPRITE
+  - first:
+      213: 21300356
+    second: CaramelAppleSprite
+  - first:
+      213: 21300358
+    second: bluelilyhat
+  - first:
+      213: 21300360
+    second: heartglasses
+  - first:
+      213: 21300362
+    second: goldenelectricguitar
+  - first:
+      213: 21300364
+    second: rubberduckie
+  - first:
+      213: 21300366
+    second: SheriffMustacheSprite
+  - first:
+      213: 21300368
+    second: giantcandycaneholdable
+  - first:
+      213: 21300370
+    second: cherryblossombranchrosegold
+  - first:
+      213: 21300372
+    second: Tshirt_VariantBSprite
+  - first:
+      213: 21300374
+    second: ClownNoseSprite
+  - first:
+      213: 21300376
+    second: PartyHornSprite
+  - first:
+      213: 21300378
+    second: baseballcapsprite
+  - first:
+      213: 21300380
+    second: FINGER FLAG SPRITE
+  - first:
+      213: 21300382
+    second: santahat
+  - first:
+      213: 21300384
+    second: electrohelm
+  - first:
+      213: 21300386
+    second: DIAMOND BALLOON SPRITE
+  - first:
+      213: 21300388
+    second: redrose
+  - first:
+      213: 21300390
+    second: pocketgorillabunpink
+  - first:
+      213: 21300392
+    second: heartpompomhat
+  - first:
+      213: 21300394
+    second: blackshutters
+  - first:
+      213: 21300396
+    second: vampirefangs
+  - first:
+      213: 21300398
+    second: ClownOutfitSprite
+  - first:
+      213: 21300400
+    second: tortoiseshellsunglasses
+  - first:
+      213: 21300402
+    second: PAINTBALL GORILLA VISOR SPRITE
+  - first:
+      213: 21300404
+    second: UnicornStaffSprite
+  - first:
+      213: 21300406
+    second: partyhatsprite
+  - first:
+      213: 21300408
+    second: CandyAppleSprite
+  - first:
+      213: 21300410
+    second: vampireset
+  - first:
+      213: 21300412
+    second: SpiderWebUmbrellaSprite
+  - first:
+      213: 21300414
+    second: SuperHeroOutfitSprite
+  - first:
+      213: 21300416
+    second: bongos
+  - first:
+      213: 21300418
+    second: brownbunnyears
+  - first:
+      213: 21300420
+    second: flamingofloatie
+  - first:
+      213: 21300422
+    second: pompomhatstripe
+  - first:
+      213: 21300424
+    second: bowtie
+  - first:
+      213: 21300426
+    second: goldforkandknife
+  - first:
+      213: 21300428
+    second: ClownCapSprite
+  - first:
+      213: 21300430
+    second: UnicornCrownSprite
+  - first:
+      213: 21300432
+    second: candycane
+  - first:
+      213: 21300434
+    second: chestheart
+  - first:
+      213: 21300436
+    second: FryingPanAndLadelSprite
+  - first:
+      213: 21300438
+    second: ornamentearrings
+  - first:
+      213: 21300440
+    second: gorillapin
+  - first:
+      213: 21300442
+    second: FlagTriangleSprite
+  - first:
+      213: 21300444
+    second: werewolfclaws
+  - first:
+      213: 21300446
+    second: Tshirt_VariantCSprite
+  - first:
+      213: 21300448
+    second: goldenhead
+  externalObjects: {}
+  usedFileIDs: []
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lightningmakeup
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96cd22a35245445d9b293c5981262c03
+      internalID: 21300000
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldrose
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5eecace7224c1e9095ef3ef382d7c1
+      internalID: 21300002
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueshutters
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3608ffc428944dc6bdcd7ebf5cb2f23f
+      internalID: 21300004
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CARDBOARD HELMET SPRITE
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 260
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6d28c65d9945928a735d966b132a98
+      internalID: 21300006
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScarecrowHatSprite
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 260
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e82e2fbe3c243e8af834eff349321fe
+      internalID: 21300008
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountainpin
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 520
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a754c7ab3a2443690b3089140e93f98
+      internalID: 21300010
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StumpHeadSprite
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 520
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7190fdcefae452ab5fafbf57f5464ee
+      internalID: 21300012
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regularforkandknife
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 260
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6365b6025431478495e5a0afe60285ed
+      internalID: 21300014
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudHatSprite
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 520
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3bb033b1384bba8442caae274b7a17
+      internalID: 21300016
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acousticguitar
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce85d7b5eb1427cbd89896a8e3e3e90
+      internalID: 21300018
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fourleafclover
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecec10fcc3840de979b86661c47eeb2
+      internalID: 21300020
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkrose
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349d60cf6efa448bbffd044da7a85459
+      internalID: 21300022
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunburn
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 260
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc82e494531426e85958220ed34cd84
+      internalID: 21300024
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coconuthat
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 260
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2cea10dbfc04e9fbe8094d482f8594c
+      internalID: 21300026
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaintballSnowVisorSprite
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 520
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85485d1e21a4495a473cad4e9452760
+      internalID: 21300028
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nosesnowflake
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1f85c7b3cd449bbd12c43fd44ef95b
+      internalID: 21300030
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catearssprite
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 260
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b37f35c20f4351ac9f05ff8466f5f3
+      internalID: 21300032
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: werewolfset
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 520
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: efce573137654a4394bf2aec40b8954a
+      internalID: 21300034
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redlonghairwig
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 260
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125d348c59a64812aea6c4d00d8417d0
+      internalID: 21300036
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperHeroHeadbandSprite
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 520
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af52db9542e40c5a92543e17d13395c
+      internalID: 21300038
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: surgicalmask
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 520
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b59e73e3b4e429682e49dd76dfdc2df
+      internalID: 21300040
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gt1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 780
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996b24047b0742e89f94de0a17752a8e
+      internalID: 21300042
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basicearrings
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 780
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a3cf2971cb4797aaa23aec05b22fa4
+      internalID: 21300044
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earmuffsgreen
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1040
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98add20b8b9436a8a4d448bc8d6e69d
+      internalID: 21300046
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunscreen
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1300
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ff0931fbe346fe8d3e9fb611386819
+      internalID: 21300048
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basicbeanie
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 780
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdfaa64074d4cdeaea749213a54f7b5
+      internalID: 21300050
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: purplelilyhat
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 780
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d075e2f8c3449deae5884cb15ee1319
+      internalID: 21300052
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreheadegg
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1040
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e157afa8f7cc43e6965e797b2f89eba4
+      internalID: 21300054
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaintballForestVestSprite
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1560
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c308aa4665488683747fbbd993eb48
+      internalID: 21300056
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaintballSnowVestSprite
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1040
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489f6a51b9c24b819944fead77ee488f
+      internalID: 21300058
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxofchocolateshat
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1040
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdb859920654d068382862a33d89adc
+      internalID: 21300060
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: headphones1
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 780
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cac6d9ae50f45749a8f207bb3c4d334
+      internalID: 21300062
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBodySprite
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1300
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06686ae54e449c5a1f04bc6f2a7c2bf
+      internalID: 21300064
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drumset
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1040
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eaa06c279d44b4eaf6278a84aa319fb
+      internalID: 21300066
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplorerHatSprite
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 780
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce1d8d13548416eb909c4bc1f26aac8
+      internalID: 21300068
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YorickSprite
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1300
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35aa55251abe41649412dda56e3f3a4b
+      internalID: 21300070
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plunger
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1300
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2216221d90ab4fdab4512dc6f589f529
+      internalID: 21300072
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackrose
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1300
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c664d8e1e04d4fada37af14b75376914
+      internalID: 21300074
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkler
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1560
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5f727ce7c042fcb6243096defa80a1
+      internalID: 21300076
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunnysunhat
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 780
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca1eba1b410452e9934ef550e127a4d
+      internalID: 21300078
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TruckerHat_VariantCSprite
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1560
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979e2565d53c451fa197ce058eb162aa
+      internalID: 21300080
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowercrown
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1560
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740ad5c8590b47f29629ef4603b20cfc
+      internalID: 21300082
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tshirt_VariantDSprite
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1040
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbe8423e5564759930ff74a0b84d0fd
+      internalID: 21300084
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfhat
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1300
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41ef2457d0d48afbe16cea782b3f502
+      internalID: 21300086
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canyonpin
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1040
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13aa2e713754c92b877777d7dbba569
+      internalID: 21300088
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pompomhatblue
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1300
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff284dd77e5445a8920d18f24591821
+      internalID: 21300090
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goggles
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1560
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91932e7e73fe4202ab778ea02258b70d
+      internalID: 21300092
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TruckerHat_VariantASprite
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1560
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69dfb2635a34f3289e3dd55eadc6a3b
+      internalID: 21300094
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pineapplehat
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1560
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bc97bc3ca8427fad726233f9ac4d3f
+      internalID: 21300096
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TuxHairSprite
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd5d13ab3e344f8aae05e68b5df2d28
+      internalID: 21300098
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starprincesstiara
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 260
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7963eb5564974d46b22409467acaff3a
+      internalID: 21300100
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummywrap
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596b795019d14965af519a8a5ea0cc80
+      internalID: 21300102
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapleleaf
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 520
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1850ff54c5304d8b89e8ef74d2713a67
+      internalID: 21300104
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earmuffswhite
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 260
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7e20cca089479b877c57cebb393032
+      internalID: 21300106
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paperbaghat
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cccc45ee5a4e4991132dcc7c401e3f
+      internalID: 21300108
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlingshotHornsSprite
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb89e0ef92a043e1b7407c6c89af7bd7
+      internalID: 21300110
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornTutuSprite
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c05b90e0834a4582f3c9ffd4e90e20
+      internalID: 21300112
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: werewolfears
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 780
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9935b08af18457886276f468cbe4848
+      internalID: 21300114
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santabeard
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8650a97c9ca44da8a005f67defe65409
+      internalID: 21300116
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheriffHatSprite
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 260
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42fcb5ecbca498486f42bbe6795c241
+      internalID: 21300118
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TshirtSprite
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1040
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4fd87653e142ee82a137aaed49a35d
+      internalID: 21300120
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbhats
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 520
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d959be0a6248b3b663d56ef731578a
+      internalID: 21300122
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherryblossombranch
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 260
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c13c17d23f4bc487344c57a8fb6556
+      internalID: 21300124
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotHeadSprite
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 260
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f63b23869564f4089d8ca0460bb2c6e
+      internalID: 21300126
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bigeyebrows
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 780
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b48ed95b814d3eae4c8a6047fc5790
+      internalID: 21300128
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackumbrella
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1300
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1b497f2672453aadf387470cdc4159
+      internalID: 21300130
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pompomhatpattern
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 520
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11344b5dee14cfb869f2ec1f94b0bc4
+      internalID: 21300132
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 780
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: adaf13200ce242909ed71d4b0b3dad4c
+      internalID: 21300134
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulgingGooglyEyesSprite
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 1040
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f30e64b93f43d9aaaa4138341a4ead
+      internalID: 21300136
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClownVestSprite
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 260
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e5c8fd53ef4a86824f2babe1cbb573
+      internalID: 21300138
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neckscarf
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 520
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ef40e70afb403ebebb505f14a1ba7b
+      internalID: 21300140
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earmuffsblack
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1040
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20bcd6dc8f142208fbfdbf4ac18843b
+      internalID: 21300142
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlinkyEyesSprite
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1560
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3c526ba7084611938bb70665c5f4b6
+      internalID: 21300144
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leprechaunhat
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 780
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909bc72f271042469f32a789bb274790
+      internalID: 21300146
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheriffVestSprite
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 1040
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57111361cc904164bfe6a72a8c35d0ae
+      internalID: 21300148
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurkeyLeg22Sprite
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 1300
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647dbfc43a164c09a13b5c6ead25f9b5
+      internalID: 21300150
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CARDBOARD ARMOR SPRITE
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 1560
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77607432c26946b5a1a384d743eec2e0
+      internalID: 21300152
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earmuffspink
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 520
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9065ce8bdc49979e92278014e217e6
+      internalID: 21300154
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tripleearrings
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6de9369b1c54096a38aa2e836d95d97
+      internalID: 21300156
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chromecowboyhat
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63b54b549f24b66b5e6b55fd9c10097
+      internalID: 21300158
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotOutfitSprite
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1300
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe3f754b68544de9867df8e709d47cc
+      internalID: 21300160
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skullmask
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1560
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8c30428ef3487da679ffc30e071d14
+      internalID: 21300162
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPIKED HELMET SPRITE
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 780
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ebedfb690240628ba2febb5d07fef1
+      internalID: 21300164
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkinhat
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 520
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4824577958411db9cf4ecb224c706c
+      internalID: 21300166
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turkeyleg
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 1300
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8ebd1b7a2e440a87f8681131705495
+      internalID: 21300168
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CARDBOARD ARMOR SET SPRITE
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 780
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f22aa0b5224828840e59062ec87a7e
+      internalID: 21300170
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cowboyhat
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 260
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408f605e78ad49ffbc1220774b7d1613
+      internalID: 21300172
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turkeyfingerpuppet
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 520
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dca066039f34de39622629f26138c8e
+      internalID: 21300174
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HIGH TECH SLINGSHOT SPRITE
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 1040
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381a42be0dec47ccb0b8ad3641b1e876
+      internalID: 21300176
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TruckerHatSprite
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 1300
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d0a85baf004b59bbabc1321210dd4a
+      internalID: 21300178
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: facescarf
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 260
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d62294e64d4b45a7044212e9e7fd60
+      internalID: 21300180
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampirewig
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 780
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cbe2fb166e475681e42d40c4d20288
+      internalID: 21300182
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CandyBarFunSizeSprite
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 1040
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d4d942a76a401b8a03a748f1f67d30
+      internalID: 21300184
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bananahat
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 520
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd28f53f16c342cd96869c25394c169c
+      internalID: 21300186
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piratebandana
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 1040
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e81af4bec154ebea7070f8d15fd9626
+      internalID: 21300188
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPIKED ARMOR SET SPRITE
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 1560
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842c627773ff4649a272c24a5cd1e8cb
+      internalID: 21300190
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaintballForestVisorSprite
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 1300
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ac5ed83df64ba9b888906c0a9c8807
+      internalID: 21300192
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paintedegghat
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 1300
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c57d3bdc06f430cb9ab31378817b221
+      internalID: 21300194
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowrainhat
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 1560
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07b94f90db64e5398fa94d58d6f53a9
+      internalID: 21300196
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAINTBALL GORILLA ARMOR SPRITE
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 780
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46619bea5e34070ac1fd3900b982b84
+      internalID: 21300198
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witchhat
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 1560
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8414e89e0d2a4095b41671dc81b5deac
+      internalID: 21300200
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biteonion
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 1560
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484e9727c4ff43dea62358765a3e991d
+      internalID: 21300202
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starprincessglasses
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 1040
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ace68bbc7a431e8f8ed26d711e1a59
+      internalID: 21300204
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witchnose
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 1300
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b50ea81ae84d13b68d9e728e1975df
+      internalID: 21300206
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricguitar
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 1560
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fa3ecf97bc416e8f0be05833798185
+      internalID: 21300208
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CranberryCanSprite
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1820
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54d511f21624e859cac1650d714f186
+      internalID: 21300210
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlagTriangle_VariantASprite
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2080
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50f2b2714b0469fbb4a8fff72e13b76
+      internalID: 21300212
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCKIN MOHAWK SPRITE
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1820
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01143c96bf6248c7b086b79894bdeb0c
+      internalID: 21300214
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StickableTargetSprite
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 2080
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98a174a72b34b65ad0af79b5e881821
+      internalID: 21300216
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudSlingshotSprite
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1820
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e5cf16725d49c1bd3b6fc8db4b4a4d
+      internalID: 21300218
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aviators
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2340
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798e37c060c543d78a2d7bb5a49174eb
+      internalID: 21300220
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CornOnCobSprite
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1820
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b002d8de898742538032a437d0408b51
+      internalID: 21300222
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloche
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 2340
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e624e86fb01345d5a986cef229a3e0ff
+      internalID: 21300224
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplorerJacketSprite
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1820
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3123a8cb5f704386bdc9a1c24ebeaecc
+      internalID: 21300226
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MouthWheatSprite
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1820
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14d6c310b3444a998fb20993a12b833
+      internalID: 21300228
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PumpkinHeadHappySprite
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1820
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36749561fd7745149983857bc9bb0682
+      internalID: 21300230
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: righteyepatch
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1820
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f04d9eeb3af40159fc702bab39cb4ea
+      internalID: 21300232
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxyglasses
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2600
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6296e5ead214a6baeebe1b809448ae4
+      internalID: 21300234
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redshutters
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 2080
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5260d83f66ba44bbb1c0000a9a3d1970
+      internalID: 21300236
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roundsunglasses
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 2340
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04f1e152df04b0a8d9bb09dd9288075
+      internalID: 21300238
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GorillaBalloonSprite
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 2600
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d3d194fc3b434ca82373052c9bbfae
+      internalID: 21300240
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doubleeyepatch
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2080
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34d250319ff43b4865a29d997dc46b0
+      internalID: 21300242
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snowmanhat
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 2080
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e8ea4b7bbb41dda37a043ddd678156
+      internalID: 21300244
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blank
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 2080
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d468d7829154d929dd43044fe525de8
+      internalID: 21300246
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowhandboots
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2860
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cce4a4bf9b74db2ae236cb658d4a48c
+      internalID: 21300248
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudhandboots
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2340
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb35451080494fb889c006e62a97c42f
+      internalID: 21300250
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloonGhostSprite
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 1820
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14dd4e2ccb246c493c92ba667229928
+      internalID: 21300252
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenfourleafclover
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 2340
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8061edac62da4a1885455216f3ace1e4
+      internalID: 21300254
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citypin
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 2080
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17720ca56e8412f861c37fb26c1f366
+      internalID: 21300256
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pocketgorillabunblue
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1820
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61625a6c4d94cd0829edddcbd2b75a0
+      internalID: 21300258
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treebadge
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 1820
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1b35abb5e44216bef11ceac3e87f4b
+      internalID: 21300260
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: regularwrench
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 2340
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e6cf036e2443e6bebc769551e0fc84
+      internalID: 21300262
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldwrench
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 1820
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c874b0b71e1541758d2b925f7fdfd1c4
+      internalID: 21300264
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperHeroBodySprite
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 2860
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1259356a294cb4a39648b5c7d4a487
+      internalID: 21300266
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyebrowstud
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 2600
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d2468741c6437a909a033aadd9e2bc
+      internalID: 21300268
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chefshat
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 2080
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6945a114a0d147599b08df81bc75b2b2
+      internalID: 21300270
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sweatbandsprite
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2600
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02135e5f183543d990686bfad396b639
+      internalID: 21300272
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seagull
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3120
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3c61d026b04e94982bc7581413bd90
+      internalID: 21300274
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spilledicecream
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 2600
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9f589895674bd6917ab373e2658678
+      internalID: 21300276
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: starprincesswand
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 1820
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522d7d2aebf44daeb13c4e3edc666ea6
+      internalID: 21300278
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplorerOutfitSprite
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 1820
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0fb0564c304fe0969d6bfe87777db1
+      internalID: 21300280
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emperornosebutterfly
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 2080
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d709930d0b1c4284b7363718af865612
+      internalID: 21300282
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fez
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 2080
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4579fdfab0d24accafd6b38d0c2a53e3
+      internalID: 21300284
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinwheelSprite
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 2860
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8882d4c395ec42bc924574292d1f2c6e
+      internalID: 21300286
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2022glasses
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 2340
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369478e367d34f8fa866679fc63e0482
+      internalID: 21300288
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ushankasprite
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 2080
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1382e50465a6406896ff189f02021bd9
+      internalID: 21300290
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: popsicle
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 2340
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5028b93678747f487e9c176d4a43661
+      internalID: 21300292
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigHeadSprite
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2860
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d655ea66f17f45569d3873db36c9af7a
+      internalID: 21300294
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cookiejar
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 2080
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b8aeed9a784879a2bb16f1ce0dd657
+      internalID: 21300296
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitefedora
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 2600
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88255a607c534ea4b4f0582276628898
+      internalID: 21300298
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clownwig
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 2340
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd307e2931994c6d9b5c13340e1d7a7a
+      internalID: 21300300
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPIKED ARMOR SPRITE
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 2600
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f093282c1834395901086b7bed1c560
+      internalID: 21300302
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PumpkinHeadScarySprite
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 3120
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6398924cabb4f77b8ac15406b2db2bc
+      internalID: 21300304
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clownset
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 2860
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe86a67f3e6446fac9cd53f6d3bcfca
+      internalID: 21300306
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tshirt_VariantASprite
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 2340
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1a0c23bdb445bc84997053b1043651
+      internalID: 21300308
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PieSliceSprite
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 2860
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe89cfd63c94e90874ff2cfd78a6c6b
+      internalID: 21300310
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHOCO DONUT BALLOON SPRITE
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 2600
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602057710d934e77bccb1db83fc8ad71
+      internalID: 21300312
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThrowableSquishyEyeballSprite
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 2860
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668fff699a80476e968c09d12c842730
+      internalID: 21300314
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FryingPanSprite
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 1820
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12006ce49c10437fbffdea26ea158b0e
+      internalID: 21300316
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToyFrogSprite
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 2340
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d3cfba578e4810ad7a3172352a4be3
+      internalID: 21300318
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TuxSprite
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 3120
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a95b264f8149c7b9e87ca8c45f659d
+      internalID: 21300320
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadelSprite
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3380
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a98a9105f8495c8bf058d6e2487dd8
+      internalID: 21300322
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whitebunnyears
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 2340
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f05197144494c46bc1303dc649810a5
+      internalID: 21300324
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenumbrella
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 2860
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc86546aeb049bc84023e7b3a69ad8d
+      internalID: 21300326
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foreheadmirrorsprite
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 2080
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd23ee03c7814d42bca91aeea9920d3d
+      internalID: 21300328
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tophat
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 2600
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9d801ce7f84763afa82553700200bd
+      internalID: 21300330
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CandyBarGiantSizeSprite
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 3120
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea836e825b14a6f94adeb1e36d4172e
+      internalID: 21300332
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAR BALLOON SPRITE
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 3380
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33f50489ac840448eda463d1e7e1f58
+      internalID: 21300334
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowrainshawl
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 2080
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d3e42f7b14496b9341b6277db53887
+      internalID: 21300336
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubbler
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 2600
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d491a873e1044169137439f5f8b39c6
+      internalID: 21300338
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheriffOutfitSprite
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 2600
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7a1610bf6f4c2cb82a6415b0961555
+      internalID: 21300340
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sunhat
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 3380
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de93ac5e2d84b6385704849b3af075d
+      internalID: 21300342
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saucepanhat
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 3120
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bf9002af894ddf9ce1c5e803c00e24
+      internalID: 21300344
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DONUT BALLOON SPRITE
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 3120
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ed9874d6b14e14815690422b08277b
+      internalID: 21300346
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornTutuOutfitSprite
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 3120
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c78ae8c3f7a48a4aaec94b4c5942b39
+      internalID: 21300348
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FingerOliveSprite
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 2340
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7e83536572464e8aed166a278d45ac
+      internalID: 21300350
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santaset
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 2860
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70fdf2a03204fa2b4a6a3612cd2e7c7
+      internalID: 21300352
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEART BALLOON SPRITE
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 3380
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a79bf4c5e2a4eee8031bc79a0045541
+      internalID: 21300354
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaramelAppleSprite
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 3380
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8b93bad33f44ec8c22b9da92549131
+      internalID: 21300356
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluelilyhat
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 2340
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6162b7e105c04134a01c4297b3c4c7d2
+      internalID: 21300358
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heartglasses
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 2600
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad55e59b31914119bef387d1e4348d0b
+      internalID: 21300360
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenelectricguitar
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 2860
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0425feb6fe94d729a2473d4c75debba
+      internalID: 21300362
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubberduckie
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 2860
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc057a2a50b94d3fbf077816f457feda
+      internalID: 21300364
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheriffMustacheSprite
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 3120
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ea9f1efc6c492d95a434da4b6ecc2d
+      internalID: 21300366
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giantcandycaneholdable
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 3120
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5832b42eb14ea58ae8a6192deb4127
+      internalID: 21300368
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherryblossombranchrosegold
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 2600
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c498834b32e94e9fb49fd6715db49eaa
+      internalID: 21300370
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tshirt_VariantBSprite
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 3380
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1e94eff7974cd2885615f1dcfae388
+      internalID: 21300372
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClownNoseSprite
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3640
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85491b372ba4c27b3b723605a12b5dd
+      internalID: 21300374
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PartyHornSprite
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 2860
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b00f05225014a5b9f4a950f31845d65
+      internalID: 21300376
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseballcapsprite
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 3120
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fdef1b6314b4120baa0afcd85d44cb6
+      internalID: 21300378
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FINGER FLAG SPRITE
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 2080
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba911369e7a4e41acba58b3b576da95
+      internalID: 21300380
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: santahat
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 3380
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7013d9a45054be5a2dd0f08a6fc7f51
+      internalID: 21300382
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electrohelm
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 2860
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf446f5411d4153b64c27ba29300cc5
+      internalID: 21300384
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DIAMOND BALLOON SPRITE
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 3380
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7452ef9044fa4720baaa97fbb718cc1a
+      internalID: 21300386
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redrose
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 3120
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1922beb7f64a4a498ca677a7680afeb9
+      internalID: 21300388
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pocketgorillabunpink
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 3120
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a939ba080e5f47c9a0a58c9188ad1088
+      internalID: 21300390
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heartpompomhat
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 3640
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372ca0775a804528b4d8c7ea9f1a9c44
+      internalID: 21300392
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackshutters
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 3380
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f58338532f4d4387b4a76ec2c1c57f
+      internalID: 21300394
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampirefangs
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 2600
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e95bc1f255f40debc3c9de69d0be06e
+      internalID: 21300396
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClownOutfitSprite
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 3380
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e338e9bd8446c1ac95331a2e1483af
+      internalID: 21300398
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tortoiseshellsunglasses
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 3640
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b483e2bed0364fba8df0ecd8b358c379
+      internalID: 21300400
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAINTBALL GORILLA VISOR SPRITE
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 3380
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9343ae9268234189b8f7f09d32a0a91d
+      internalID: 21300402
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornStaffSprite
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 3120
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e865f405f2c8432fa1810bef3ec2c44d
+      internalID: 21300404
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: partyhatsprite
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 3640
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108d83b9fac94d68b1f34e1f2a794d34
+      internalID: 21300406
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CandyAppleSprite
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 3640
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb80702aa63d475ab7e9b3cdbf7a9ce2
+      internalID: 21300408
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vampireset
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 3640
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93acef58f42f42188ad84377c256b25f
+      internalID: 21300410
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiderWebUmbrellaSprite
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 3640
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce376418bd9d4113aab97a355cad62ca
+      internalID: 21300412
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperHeroOutfitSprite
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 3380
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef743d8a8d6c4cab9b141fde87c4e275
+      internalID: 21300414
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bongos
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 3380
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7b17672c6342ad8860934be8460220
+      internalID: 21300416
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brownbunnyears
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 2860
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52fb58ca1c54ce197c0ec99e6ab7177
+      internalID: 21300418
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamingofloatie
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 2340
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42400503af04dc89d5b4689be2f3de3
+      internalID: 21300420
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pompomhatstripe
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 2600
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830522cfff524114835a4ff8cb67c549
+      internalID: 21300422
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowtie
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 3640
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06dbb317b89e41359930dbd4b8202681
+      internalID: 21300424
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldforkandknife
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 3120
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f785e84da0243cd849fe3ea1df776fa
+      internalID: 21300426
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClownCapSprite
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 2860
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f4bf6b114a42eb87b66019175bf378
+      internalID: 21300428
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnicornCrownSprite
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 3380
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032b39d56ab642e3b6b2771e89b93f20
+      internalID: 21300430
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candycane
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 3640
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0046fd5dbe4b6eaf6561cb3f5ee329
+      internalID: 21300432
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chestheart
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 3120
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f337a1752449b8a3069cb100d9b7b1
+      internalID: 21300434
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FryingPanAndLadelSprite
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 3640
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90d064697ab4a9c8de2ba35c3a82f8b
+      internalID: 21300436
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ornamentearrings
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 3640
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa41bee45a04188abcda90f1df8bb82
+      internalID: 21300438
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gorillapin
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 3640
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dced6c298ef443339ed8ccb5e3707e73
+      internalID: 21300440
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlagTriangleSprite
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 3640
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0aae60cceb45a597ce5851dacda882
+      internalID: 21300442
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: werewolfclaws
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 3640
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffddb5b0f594ed3a88f24dbd2a44a2b
+      internalID: 21300444
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tshirt_VariantCSprite
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 3380
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2d5006859d48d48aa13862cb73b6dc
+      internalID: 21300446
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goldenhead
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 3640
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -128}
+        - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce67f0e1aaa4d4197f56337b549a3eb
+      internalID: 21300448
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices:
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag:
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:
